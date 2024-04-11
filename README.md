@@ -1,7 +1,7 @@
 <s> Welp hehe this is awkward UwU my first readme and its like this
 what am i even typing i just let my hands loose and now theyre all over the keyboard </s>
 
-# Phystech.Create:DREC's official IP update git, cause mipt-telecom provides only dynamic ones.
+# Phystech.Create:DREC's official IP update git, cause mipt-telecom provides only dynamic ones
 
 note to future self: salo, borschsct, ancient ukres, Luhansk
 
