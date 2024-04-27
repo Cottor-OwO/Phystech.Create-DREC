@@ -1,0 +1,4 @@
+#Whether to log the dirt block on common setup
+logDirtBlock = true
+magicNumber = 42
+

@@ -1,0 +1,2022 @@
+{
+  "minecraft:recipes/travelersbackpack/cake_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/black_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/clutch": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/blue_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:wrench_goggles": {
+    "criteria": {
+      "0": "2024-04-04 23:08:26 +0000",
+      "1": "2024-04-14 22:14:26 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/blue_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bee_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "create:red_signal": {
+    "criteria": {
+      "0": "2024-04-14 20:44:51 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_bearing": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/horizontal_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/observer": {
+    "criteria": {
+      "has_quartz": "2024-04-14 23:05:01 +0000"
+    },
+    "done": true
+  },
+  "create:track_signal": {
+    "criteria": {
+      "0": "2024-04-05 00:58:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gantry_carriage": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/red_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/yellow_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearshift": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/root": {
+    "criteria": {
+      "entered_nether": "2024-04-14 20:13:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2024-04-04 23:06:25 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_magenta": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/creeper_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_piston": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/cyan_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/purple_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "create:super_glue": {
+    "criteria": {
+      "0": "2024-04-05 00:59:15 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/light_gray_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/magenta_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/purple_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/yellow_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/orange_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/fox_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/chest": {
+    "criteria": {
+      "has_lots_of_items": "2024-04-04 23:10:22 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/white_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/lime_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/mangrove_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "create:portable_storage_interface": {
+    "criteria": {
+      "0": "2024-04-14 22:54:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/magma_cube_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/weighted_ejector": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "create:conductor": {
+    "criteria": {
+      "0": "2024-04-05 01:01:31 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/blue_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/green_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_pink": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/villager_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/packed_ice": {
+    "criteria": {
+      "has_ice": "2024-04-04 23:14:10 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/light_gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/red_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite": {
+    "criteria": {
+      "has_quartz": "2024-04-14 23:05:01 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/flint_and_steel": {
+    "criteria": {
+      "has_obsidian": "2024-04-14 20:12:17 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_plough": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/gray_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/lime_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/melon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/brown_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/green_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/redstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/vertical_framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/enderman_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/nether_wart_block": {
+    "criteria": {
+      "has_nether_wart": "2024-04-14 23:05:04 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/purple_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "create:mechanical_pump_0": {
+    "criteria": {
+      "0": "2024-04-14 22:54:17 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/light_gray_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/brown_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/purple_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_black": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/pink_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/purple_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/black_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/purple_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/green_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/end_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/white_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_orange": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/lime_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-14 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/gray_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_saw": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2024-04-04 23:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2024-04-04 23:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sandstone_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/green_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/magenta_dye_from_blue_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-14 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/yellow_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/orange_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_red": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/magenta_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/granite": {
+    "criteria": {
+      "has_quartz": "2024-04-14 23:05:01 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/black_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_station": {
+    "criteria": {
+      "has_item": "2024-04-05 00:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/comparator": {
+    "criteria": {
+      "has_quartz": "2024-04-14 23:05:01 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/cyan_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/depot": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/lime_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/red_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/green_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_candle": {
+    "criteria": {
+      "has_white_dye": "2024-04-14 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_nether_bricks": {
+    "criteria": {
+      "has_nether_wart": "2024-04-14 23:05:04 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/lime_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2024-04-14 22:11:04 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_brown": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/portable_storage_interface": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/magenta_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/enchanting_table": {
+    "criteria": {
+      "has_obsidian": "2024-04-14 20:12:17 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/magenta_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/gray_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/coal_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2024-04-03 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer_from_other_plates": {
+    "criteria": {
+      "has_item": "2024-04-05 00:54:21 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/orange_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:main/root": {
+    "criteria": {
+      "seeds": "2024-04-03 00:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2024-04-04 23:06:25 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/white_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pig_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/black_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ocelot_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:skeleton": "2024-04-03 00:53:28 +0000",
+      "minecraft:spider": "2024-04-03 01:17:31 +0000",
+      "minecraft:creeper": "2024-04-03 00:53:28 +0000",
+      "minecraft:enderman": "2024-04-03 01:19:23 +0000",
+      "minecraft:zombie": "2024-04-03 00:53:07 +0000"
+    },
+    "done": false
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/black_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/diamond_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/enter_the_nether": {
+    "criteria": {
+      "entered_nether": "2024-04-14 20:13:02 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_trapdoor": {
+    "criteria": {
+      "has_item": "2024-04-05 00:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/brown_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/lime_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/black_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_press": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/magenta_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/chicken_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/pink_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/train_door": {
+    "criteria": {
+      "has_item": "2024-04-05 00:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/gold_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/glass_pane": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "create:root": {
+    "criteria": {
+      "0": "2024-04-03 00:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_lime": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/yellow_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/magenta_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_blue_dye_from_blue_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-14 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/lime_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/nether_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/conductor_whistle": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/red_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_purple": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/snow": {
+    "criteria": {
+      "has_snowball": "2024-04-14 22:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/red_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sheep_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_bricks_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/white_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/orange_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_blue_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop": {
+    "criteria": {
+      "has_porkchop": "2024-04-04 22:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_carpet_from_white_carpet": {
+    "criteria": {
+      "has_light_gray_dye": "2024-04-14 21:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/magenta_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/snow_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/black_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/pink_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/green_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_campfire_cooking": {
+    "criteria": {
+      "has_porkchop": "2024-04-04 22:49:45 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/yellow_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/white_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_red_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-14 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_drill": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_light_blue": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/red_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/lapis_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_light_gray": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/white_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/gearbox": {
+    "criteria": {
+      "has_item": "2024-04-14 22:53:33 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/light_blue_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/brewing/glass_bottle": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/track_switch_andesite": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/light_blue_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_green": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cyan_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bookshelf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/white_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/framed_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_white": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/nether_brick": {
+    "criteria": {
+      "has_netherrack": "2024-04-14 23:04:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/pink_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/blue_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/cyan_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/green_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/light_gray_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/cyan_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/pink_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/light_gray_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/pink_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/cactus_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/pink_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/purple_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/bat_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/sponge_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_blue": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/millstone": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wither_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/gray_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/magenta_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/green_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/pumpkin_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/squid_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_gray": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/gray_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/white_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/cyan_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/yellow_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/lime_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/black_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/gray_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/blackstone_wall": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/encased_chain_drive": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "create:train": {
+    "criteria": {
+      "0": "2024-04-05 00:59:33 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/sail_framefrom_conversion": {
+    "criteria": {
+      "has_item": "2024-04-04 23:08:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/polished_blackstone_brick_wall_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "create:track_0": {
+    "criteria": {
+      "0": "2024-04-05 00:54:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_slab": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/root": {
+    "criteria": {
+      "crafting_table": "2024-04-14 23:05:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/lime_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_porkchop_from_smoking": {
+    "criteria": {
+      "has_porkchop": "2024-04-04 22:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/dragon_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/noodle_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 22:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/form_obsidian": {
+    "criteria": {
+      "obsidian": "2024-04-14 20:12:17 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/brown_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/standard_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/brown_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/red_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/brown_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/purple_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "betterdungeons:root": {
+    "criteria": {
+      "always": "2024-04-26 19:56:56 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2024-04-04 23:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/wolf_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/blue_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2024-04-03 00:53:07 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/crafting_blueprint": {
+    "criteria": {
+      "has_item": "2024-04-14 23:05:23 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/red_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/tiled_glass_from_glass_colorless_stonecutting": {
+    "criteria": {
+      "has_glass_colorless": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/light_blue_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_observer": {
+    "criteria": {
+      "has_item": "2024-04-05 00:54:21 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/blue_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/quartz_block": {
+    "criteria": {
+      "has_quartz": "2024-04-14 23:05:01 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_cyan": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/green_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/gray_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-14 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:deep_ocean": "2024-04-04 23:42:55 +0000",
+      "minecraft:eroded_badlands": "2024-04-03 01:18:21 +0000",
+      "minecraft:badlands": "2024-04-03 01:16:11 +0000",
+      "minecraft:savanna_plateau": "2024-04-03 01:17:40 +0000",
+      "minecraft:stony_peaks": "2024-04-03 00:53:41 +0000",
+      "minecraft:lukewarm_ocean": "2024-04-03 00:53:27 +0000",
+      "minecraft:river": "2024-04-04 23:42:47 +0000",
+      "minecraft:forest": "2024-04-04 22:45:36 +0000",
+      "minecraft:warm_ocean": "2024-04-03 01:16:25 +0000",
+      "minecraft:deep_lukewarm_ocean": "2024-04-04 23:43:00 +0000",
+      "minecraft:savanna": "2024-04-03 00:53:22 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/travelersbackpack/horse_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_harvester": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/light_gray_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/buffer": {
+    "criteria": {
+      "has_item": "2024-04-14 20:42:29 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/yellow_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/andesite_door": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/brown_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/orange_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/appliances/schedule_clear": {
+    "criteria": {
+      "has_item": "2024-04-05 00:54:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/chiseled_polished_blackstone_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/controls": {
+    "criteria": {
+      "has_item": "2024-04-05 00:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/light_gray_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/cyan_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/snow_block": {
+    "criteria": {
+      "has_snowball": "2024-04-14 22:44:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/spider_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/blackstone_stairs_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/magenta_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/quartz_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/lime_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/light_blue_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/brown_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2024-04-04 23:06:25 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/purple_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/orange_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/gray_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/skeleton_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/hay_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2024-04-04 23:00:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/daylight_detector": {
+    "criteria": {
+      "has_quartz": "2024-04-14 23:05:01 +0000"
+    },
+    "done": true
+  },
+  "farmersdelight:recipes/farmersdelight/cooking/pumpkin_soup": {
+    "criteria": {
+      "has_any_ingredient": "2024-04-04 22:49:45 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_gray_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-14 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/blue_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/ghast_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/dying_existing_cap_yellow": {
+    "criteria": {
+      "hasitem": "2024-04-05 01:01:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/orange_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "create:train_roadkill": {
+    "criteria": {
+      "0": "2024-04-14 20:31:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/netherite_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/light_blue_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:57 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_blackstone_brick_slab_from_blackstone_stonecutting": {
+    "criteria": {
+      "has_blackstone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/decorations/smelting/glass_pane_from_vertical_framed_glass_pane": {
+    "criteria": {
+      "has_item": "2024-04-04 23:13:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:crimson_forest": "2024-04-14 20:13:02 +0000"
+    },
+    "done": false
+  },
+  "minecraft:recipes/decorations/light_gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/gray_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/yellow_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/birch_window_pane": {
+    "criteria": {
+      "has_ingredient": "2024-04-04 23:07:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/blaze_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/orange_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_1x/light_blue_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/brown_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/mechanical_roller": {
+    "criteria": {
+      "has_item": "2024-04-05 01:01:13 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/emerald_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_blue_stained_glass_pane_from_glass_pane": {
+    "criteria": {
+      "has_glass_pane": "2024-04-04 23:13:42 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/black_iron_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_campfire": {
+    "criteria": {
+      "has_soul_sand": "2024-04-14 21:40:07 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways/crafting/track_coupler": {
+    "criteria": {
+      "has_item": "2024-04-05 00:54:21 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/light_gray_candle": {
+    "criteria": {
+      "has_light_gray_dye": "2024-04-14 21:40:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2024-04-14 23:04:46 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.palettes/crafting/kinetics/pink_seat_from_other_seat": {
+    "criteria": {
+      "has_seat": "2024-04-05 00:59:11 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/soul_torch": {
+    "criteria": {
+      "has_soul_sand": "2024-04-14 21:40:07 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/light_gray_dye_from_black_white_dye": {
+    "criteria": {
+      "has_white_dye": "2024-04-14 21:40:32 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/pink_stained_glass": {
+    "criteria": {
+      "has_glass": "2024-04-04 23:13:16 +0000"
+    },
+    "done": true
+  },
+  "railways:recipes/railways_palettes/crafting/palettes/dyeing_8x/cyan_copper_wrapped_locometal_boiler": {
+    "criteria": {
+      "has_item": "2024-04-14 00:37:59 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/travelersbackpack/iron_golem_smithing_iron": {
+    "criteria": {
+      "has_iron_tier_upgrade": "2024-04-14 01:27:58 +0000"
+    },
+    "done": true
+  },
+  "create:recipes/create.base/crafting/kinetics/track_signal": {
+    "criteria": {
+      "has_item": "2024-04-05 00:54:21 +0000"
+    },
+    "done": true
+  },
+  "DataVersion": 3120
+}

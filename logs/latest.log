@@ -1,0 +1,226 @@
+[27Apr2024 09:21:57.357] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher running: args [--launchTarget, forgeserver, --fml.forgeVersion, 43.3.0, --fml.mcVersion, 1.19.2, --fml.forgeGroup, net.minecraftforge, --fml.mcpVersion, 20220805.130853]
+[27Apr2024 09:21:57.360] [main/INFO] [cpw.mods.modlauncher.Launcher/MODLAUNCHER]: ModLauncher 10.0.8+10.0.8+main.0ef7e830 starting: java version 17.0.10 by Private Build; OS Linux arch amd64 version 5.15.0-105-generic
+[27Apr2024 09:21:57.924] [main/INFO] [mixin/]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=union:/home/cottor/mc/libraries/org/spongepowered/mixin/0.8.5/mixin-0.8.5.jar%2363!/ Service=ModLauncher Env=SERVER
+[27Apr2024 09:21:58.186] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cottor/mc/libraries/net/minecraftforge/fmlcore/1.19.2-43.3.0/fmlcore-1.19.2-43.3.0.jar is missing mods.toml file
+[27Apr2024 09:21:58.187] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cottor/mc/libraries/net/minecraftforge/javafmllanguage/1.19.2-43.3.0/javafmllanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[27Apr2024 09:21:58.188] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cottor/mc/libraries/net/minecraftforge/lowcodelanguage/1.19.2-43.3.0/lowcodelanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[27Apr2024 09:21:58.189] [main/WARN] [net.minecraftforge.fml.loading.moddiscovery.ModFileParser/LOADING]: Mod file /home/cottor/mc/libraries/net/minecraftforge/mclanguage/1.19.2-43.3.0/mclanguage-1.19.2-43.3.0.jar is missing mods.toml file
+[27Apr2024 09:21:58.540] [main/INFO] [net.minecraftforge.fml.loading.moddiscovery.JarInJarDependencyLocator/]: Found 32 dependencies adding them to mods collection
+[27Apr2024 09:22:00.138] [main/INFO] [mixin/]: Compatibility level set to JAVA_17
+[27Apr2024 09:22:00.218] [main/INFO] [cpw.mods.modlauncher.LaunchServiceHandler/MODLAUNCHER]: Launching target 'forgeserver' with arguments []
+[27Apr2024 09:22:00.251] [main/INFO] [com.abdelaziz.saturn.common.Saturn/]: Loaded Saturn config file with 4 configurable options
+[27Apr2024 09:22:00.282] [main/WARN] [mixin/]: Reference map 'labels-common-refmap.json' for labels-common.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Apr2024 09:22:00.283] [main/WARN] [mixin/]: Reference map 'labels-forge-refmap.json' for labels.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Apr2024 09:22:00.297] [main/WARN] [mixin/]: Reference map 'dummmmmmy-forge-refmap.json' for dummmmmmy.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Apr2024 09:22:00.302] [main/WARN] [mixin/]: Reference map 'lmft-forge-refmap.json' for lmft.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Apr2024 09:22:00.314] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Apr2024 09:22:00.315] [main/WARN] [mixin/]: Reference map 'yungsextras.refmap.json' for yungsextras_forge.mixins.json could not be read. If this is a development environment you can ignore this message
+[27Apr2024 09:22:00.326] [main/WARN] [CanaryConfig/]: Mod 'pluto' attempted to override option 'mixin.world.player_chunk_tick', which doesn't exist, ignoring
+[27Apr2024 09:22:00.328] [main/INFO] [Canary/]: Loaded configuration file for Canary: 117 options available, 0 override(s) found
+[27Apr2024 09:22:00.633] [main/INFO] [Railways/MixinPlugin/]: com.railwayteam.railways.mixin.compat.voicechat.EntityAudioChannelImplMixin is not being applied because the mod(s) [VOICECHAT] are not loaded
+[27Apr2024 09:22:00.634] [main/INFO] [Railways/MixinPlugin/]: com.railwayteam.railways.mixin.compat.voicechat.ServerMixin is not being applied because the mod(s) [VOICECHAT] are not loaded
+[27Apr2024 09:22:00.634] [main/INFO] [Railways/MixinPlugin/]: com.railwayteam.railways.mixin.compat.voicechat.ServerWorldUtilsMixin is not being applied because the mod(s) [VOICECHAT] are not loaded
+[27Apr2024 09:22:01.019] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/crafting/boring/AbstractCannonDrillBlockEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.crafting.boring.AbstractCannonDrillBlockEntity)
+[27Apr2024 09:22:01.304] [main/WARN] [mixin/]: Error loading class: rbasamoyai/createbigcannons/cannon_control/contraption/PitchOrientedContraptionEntity (java.lang.ClassNotFoundException: rbasamoyai.createbigcannons.cannon_control.contraption.PitchOrientedContraptionEntity)
+[27Apr2024 09:22:01.306] [main/WARN] [mixin/]: Error loading class: dev/ftb/mods/ftbchunks/data/ClaimedChunkManager (java.lang.ClassNotFoundException: dev.ftb.mods.ftbchunks.data.ClaimedChunkManager)
+[27Apr2024 09:22:01.308] [main/WARN] [mixin/]: Error loading class: com/jamieswhiteshirt/reachentityattributes/ReachEntityAttributes (java.lang.ClassNotFoundException: com.jamieswhiteshirt.reachentityattributes.ReachEntityAttributes)
+[27Apr2024 09:22:01.316] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/speaker/SpeakerPosition (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.speaker.SpeakerPosition)
+[27Apr2024 09:22:01.318] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleBrain (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleBrain)
+[27Apr2024 09:22:01.319] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/turtle/core/TurtleMoveCommand (java.lang.ClassNotFoundException: dan200.computercraft.shared.turtle.core.TurtleMoveCommand)
+[27Apr2024 09:22:01.320] [main/WARN] [mixin/]: Error loading class: dan200/computercraft/shared/peripheral/modem/wireless/WirelessNetwork (java.lang.ClassNotFoundException: dan200.computercraft.shared.peripheral.modem.wireless.WirelessNetwork)
+[27Apr2024 09:22:01.325] [main/WARN] [mixin/]: Error loading class: blusunrize/immersiveengineering/common/gui/BlockEntityInventory (java.lang.ClassNotFoundException: blusunrize.immersiveengineering.common.gui.BlockEntityInventory)
+[27Apr2024 09:22:01.326] [main/WARN] [mixin/]: Error loading class: net/dries007/tfc/world/TFCChunkGenerator (java.lang.ClassNotFoundException: net.dries007.tfc.world.TFCChunkGenerator)
+[27Apr2024 09:22:01.327] [main/WARN] [mixin/]: Error loading class: cofh/core/block/entity/TileCoFH (java.lang.ClassNotFoundException: cofh.core.block.entity.TileCoFH)
+[27Apr2024 09:22:01.329] [main/WARN] [mixin/]: Error loading class: li/cil/tis3d/common/entity/InfraredPacketEntity (java.lang.ClassNotFoundException: li.cil.tis3d.common.entity.InfraredPacketEntity)
+[27Apr2024 09:22:01.330] [main/WARN] [mixin/]: Error loading class: me/desht/modularrouters/container/RouterMenu (java.lang.ClassNotFoundException: me.desht.modularrouters.container.RouterMenu)
+[27Apr2024 09:22:01.500] [main/INFO] [MixinExtras|Service/]: Initializing MixinExtras via com.llamalad7.mixinextras.service.MixinExtrasServiceImpl(version=0.3.5).
+[27Apr2024 09:22:04.496] [main/INFO] [net.minecraft.util.datafix.DataFixers/]: Building unoptimized datafixer
+[27Apr2024 09:22:05.877] [main/WARN] [mixin/]: Error loading class: vazkii/quark/content/tools/item/PathfindersQuillItem (java.lang.ClassNotFoundException: vazkii.quark.content.tools.item.PathfindersQuillItem)
+[27Apr2024 09:22:06.096] [modloading-worker-0/INFO] [plus.dragons.createdragonlib.DragonLib/]: Create: Dragon Lib 1.4.2 has initialized, ready to support your Create add-ons!
+[27Apr2024 09:22:06.138] [modloading-worker-0/INFO] [net.minecraftforge.common.ForgeMod/FORGEMOD]: Forge mod loading, version 43.3.0, for MC 1.19.2 with MCP 20220805.130853
+[27Apr2024 09:22:06.138] [modloading-worker-0/INFO] [net.minecraftforge.common.MinecraftForge/FORGE]: MinecraftForge v43.3.0 Initialized
+[27Apr2024 09:22:06.159] [modloading-worker-0/INFO] [io.wispforest.lmft.LMFTCommon/]: [LMFT]: Loaded Config File!
+[27Apr2024 09:22:06.418] [modloading-worker-0/WARN] [yungsapi/]: WARNING: block Block{minecraft:iron_ore} added to BlockSelector exceeds max probabiltiy of 1!
+[27Apr2024 09:22:06.627] [modloading-worker-0/INFO] [dev.architectury.networking.forge.NetworkManagerImpl/]: Registering C2S receiver with id architectury:sync_ids
+[27Apr2024 09:22:06.719] [modloading-worker-0/INFO] [thedarkcolour.kotlinforforge.test.KotlinForForge/]: Kotlin For Forge Enabled!
+[27Apr2024 09:22:06.955] [modloading-worker-0/WARN] [mixin/]: Method overwrite conflict for this in create_interactive-common.mixins.json:AbstractContraptionEntityAccessor, previously written by org.valkyrienskies.create_interactive.mixin.MixinAbstractContraptionEntity. Skipping method.
+[27Apr2024 09:22:07.007] [modloading-worker-0/WARN] [mixin/]: @Inject(@At("INVOKE_ASSIGN")) Shift.BY=2 on valkyrienskies-common.mixins.json:mod_compat.create.block.MixinRedstoneContactBlock::handler$bin000$injectTick exceeds the maximum allowed value: 0. Increase the value of maxShiftBy to suppress this warning.
+[27Apr2024 09:22:07.273] [modloading-worker-0/INFO] [Railways/]: Registered bogey styles from railways
+[27Apr2024 09:22:07.421] [modloading-worker-0/INFO] [Railways/]: Registering data fixers
+[27Apr2024 09:22:07.441] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Hex Casting
+[27Apr2024 09:22:07.442] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Oh The Biomes You'll Go
+[27Apr2024 09:22:07.443] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Blue Skies
+[27Apr2024 09:22:07.443] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Twilight Forest
+[27Apr2024 09:22:07.460] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Biomes O' Plenty
+[27Apr2024 09:22:07.460] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Dreams and Desires
+[27Apr2024 09:22:07.461] [modloading-worker-0/INFO] [Railways/]: Registering tracks for Quark
+[27Apr2024 09:22:07.664] [Worker-Bootstrap-8/INFO] [com.mojang.datafixers.DataFixerBuilder/]: 54 Datafixer optimizations took 233 milliseconds
+[27Apr2024 09:22:09.877] [main/INFO] [moonlight/]: Initialized block sets in 6ms
+[27Apr2024 09:22:10.461] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Starting version check at https://github.com/AbdElAziz333/Saturn/raw/mc1.20.1/dev/updates.json
+[27Apr2024 09:22:10.645] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:water for Water (Fluid Amount Required: 1000) with the ID 0
+[27Apr2024 09:22:10.645] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:lava for Lava (Fluid Amount Required: 1000) with the ID 1
+[27Apr2024 09:22:10.645] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of travelersbackpack:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 2
+[27Apr2024 09:22:10.645] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of minecraft:milk for Milk (Fluid Amount Required: 1000) with the ID 3
+[27Apr2024 09:22:10.648] [main/INFO] [com.tiviacz.travelersbackpack.TravelersBackpack/]: Registered the FluidEffect with Unique ID of create:potion for Uncraftable Potion (Fluid Amount Required: 250) with the ID 4
+[27Apr2024 09:22:10.703] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:aiming for minecraft:player
+[27Apr2024 09:22:10.704] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:reloading for minecraft:player
+[27Apr2024 09:22:10.704] [main/INFO] [Framework/SYNCED_ENTITY_DATA]: Registered synced data key cgm:shooting for minecraft:player
+[27Apr2024 09:22:10.732] [main/INFO] [moonlight/]: Initialized color sets in 25ms
+[27Apr2024 09:22:10.750] [main/INFO] [moonlight/]: Initialized color sets in 16ms
+[27Apr2024 09:22:10.774] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [saturn] Found status: AHEAD Current: 0.1.4 Target: null
+[27Apr2024 09:22:10.775] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Starting version check at https://raw.githubusercontent.com/MrCrayfish/ModUpdates/master/cgm/update.json
+[27Apr2024 09:22:10.792] [main/INFO] [supplementaries/]: Finished mod setup in: [0, 30, 1, 0, 0, 0, 0, 0, 1] ms
+[27Apr2024 09:22:10.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [cgm] Found status: BETA Current: 1.3.7 Target: null
+[27Apr2024 09:22:10.797] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Starting version check at https://gist.githubusercontent.com/Tiviacz1337/906937677aa472285dff9d6c2a189d5e/raw
+[27Apr2024 09:22:10.994] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [travelersbackpack] Found status: OUTDATED Current: 8.2.35 Target: 8.2.38
+[27Apr2024 09:22:10.995] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Starting version check at https://files.minecraftforge.net/net/minecraftforge/forge/promotions_slim.json
+[27Apr2024 09:22:11.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [forge] Found status: UP_TO_DATE Current: 43.3.0 Target: null
+[27Apr2024 09:22:11.268] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Starting version check at https://gh.tamaized.com/TeamTwilight/twilightforest/update.json
+[27Apr2024 09:22:11.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [twilightforest] Found status: BETA Current: 4.2.1518 Target: null
+[27Apr2024 09:22:11.531] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Supplementaries/master/forge/update.json
+[27Apr2024 09:22:11.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [supplementaries] Found status: OUTDATED Current: 1.19.2-2.4.20 Target: 1.19.2-2.4.21
+[27Apr2024 09:22:11.552] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Starting version check at https://raw.githubusercontent.com/MehVahdJukaar/Moonlight/multi-loader/forge/update.json
+[27Apr2024 09:22:11.574] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [moonlight] Found status: OUTDATED Current: 1.19.2-2.3.5 Target: 1.19.2-2.3.6
+[27Apr2024 09:22:11.575] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Starting version check at https://api.modrinth.com/updates/flywheel/forge_updates.json
+[27Apr2024 09:22:11.788] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [flywheel] Found status: AHEAD Current: 0.6.10-20 Target: null
+[27Apr2024 09:22:11.789] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Starting version check at https://github.com/AbdElAziz333/Canary/raw/mc1.19.2/dev/updates.json
+[27Apr2024 09:22:11.970] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [canary] Found status: UP_TO_DATE Current: 0.3.3 Target: null
+[27Apr2024 09:22:11.970] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [pluto] Starting version check at https://github.com/AbdElAziz333/Pluto/blob/mc1.19.2/dev/updates.json
+[27Apr2024 09:22:12.253] [Forge Version Check/WARN] [net.minecraftforge.fml.VersionChecker/]: Failed to process update information
+com.google.gson.JsonSyntaxException: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.Gson.fromJson(Gson.java:975) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:928) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:877) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:848) ~[gson-2.8.9.jar%2370!/:?]
+	at net.minecraftforge.fml.VersionChecker$1.process(VersionChecker.java:183) ~[fmlcore-1.19.2-43.3.0.jar%23192!/:?]
+	at java.lang.Iterable.forEach(Iterable.java:75) [?:?]
+	at net.minecraftforge.fml.VersionChecker$1.run(VersionChecker.java:114) [fmlcore-1.19.2-43.3.0.jar%23192!/:?]
+Caused by: java.lang.IllegalStateException: Expected BEGIN_OBJECT but was STRING at line 7 column 1 path $
+	at com.google.gson.stream.JsonReader.beginObject(JsonReader.java:384) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:183) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.internal.bind.MapTypeAdapterFactory$Adapter.read(MapTypeAdapterFactory.java:145) ~[gson-2.8.9.jar%2370!/:?]
+	at com.google.gson.Gson.fromJson(Gson.java:963) ~[gson-2.8.9.jar%2370!/:?]
+	... 6 more
+[27Apr2024 09:22:12.253] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_power_loader] Starting version check at https://raw.githubusercontent.com/hlysine/create_power_loader/main/update.json
+[27Apr2024 09:22:12.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [create_power_loader] Found status: UP_TO_DATE Current: 1.4.0-mc1.19.2 Target: null
+[27Apr2024 09:22:12.275] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Starting version check at https://mrcrayfish.com/modupdatejson?id=framework
+[27Apr2024 09:22:12.856] [main/INFO] [com.mojang.authlib.yggdrasil.YggdrasilAuthenticationService/]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[27Apr2024 09:22:13.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [framework] Found status: BETA Current: 0.6.16 Target: 0.6.16
+[27Apr2024 09:22:13.488] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_no_f3] Starting version check at https://api.modrinth.com/updates/MPFUV2Ds/forge_updates.json
+[27Apr2024 09:22:13.691] [Forge Version Check/INFO] [net.minecraftforge.fml.VersionChecker/]: [mr_no_f3] Found status: OUTDATED Current: 1 Target: 1+mod
+[27Apr2024 09:22:14.603] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/cottor/mc/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23191!/assets/.mcassetsroot' uses unexpected schema
+[27Apr2024 09:22:14.603] [main/WARN] [net.minecraft.server.packs.VanillaPackResources/]: Assets URL 'union:/home/cottor/mc/libraries/net/minecraft/server/1.19.2-20220805.130853/server-1.19.2-20220805.130853-srg.jar%23191!/data/.mcassetsroot' uses unexpected schema
+[27Apr2024 09:22:14.660] [main/WARN] [net.minecraft.server.packs.AbstractPackResources/]: ResourcePack: ignored non-lowercase namespace: .DS_Store in ./world-1/datapacks/Bundle.zip
+[27Apr2024 09:22:14.692] [main/WARN] [net.minecraft.server.packs.AbstractPackResources/]: ResourcePack: ignored non-lowercase namespace: .DS_Store in ./world-1/datapacks/Bundle.zip
+[27Apr2024 09:22:14.873] [main/INFO] [supplementaries/]: Generated runtime SERVER_DATA for pack Supplementaries Generated Pack in: 172 ms
+[27Apr2024 09:22:18.814] [Worker-Main-21/ERROR] [net.minecraft.tags.TagLoader/]: [Load My Fucking Tags] Couldn't load certain entries with the tag cgm:fragile_lights: createaddition:small_light_connector (from CreateGuns1.2.1-1.19.2edit3.zip), design_decor:brass_light (from CreateGuns1.2.1-1.19.2edit3.zip), design_decor:copper_light (from CreateGuns1.2.1-1.19.2edit3.zip), design_decor:zinc_light (from CreateGuns1.2.1-1.19.2edit3.zip), design_decor:brass_floodlight (from CreateGuns1.2.1-1.19.2edit3.zip), design_decor:copper_floodlight (from CreateGuns1.2.1-1.19.2edit3.zip), design_decor:andesite_floodlight (from CreateGuns1.2.1-1.19.2edit3.zip), design_decor:brass_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), design_decor:copper_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), design_decor:zinc_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:yellow_gold_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:red_gold_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:green_gold_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:blue_gold_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:yellow_andesite_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:red_andesite_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:green_andesite_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:blue_andesite_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:yellow_brass_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:red_brass_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:green_brass_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:blue_brass_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:yellow_cast_iron_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:red_cast_iron_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:green_cast_iron_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:blue_cast_iron_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:yellow_iron_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:red_iron_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:green_iron_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:blue_iron_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:yellow_copper_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:red_copper_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:green_copper_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:blue_copper_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:yellow_zinc_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:red_zinc_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:green_zinc_lamp (from CreateGuns1.2.1-1.19.2edit3.zip), createdeco:blue_zinc_lamp (from CreateGuns1.2.1-1.19.2edit3.zip)
+[27Apr2024 09:22:18.822] [Worker-Main-21/ERROR] [net.minecraft.tags.TagLoader/]: [Load My Fucking Tags] Couldn't load certain entries with the tag cgm:fragile_glass_casings: create_crystal_clear:andesite_glass_casing (from CreateGuns1.2.1-1.19.2edit3.zip), create_crystal_clear:brass_glass_casing (from CreateGuns1.2.1-1.19.2edit3.zip), create_crystal_clear:copper_glass_casing (from CreateGuns1.2.1-1.19.2edit3.zip), create_crystal_clear:train_glass_casing (from CreateGuns1.2.1-1.19.2edit3.zip), create_crystal_clear:andesite_clear_glass_casing (from CreateGuns1.2.1-1.19.2edit3.zip), create_crystal_clear:brass_clear_glass_casing (from CreateGuns1.2.1-1.19.2edit3.zip), create_crystal_clear:copper_clear_glass_casing (from CreateGuns1.2.1-1.19.2edit3.zip), create_crystal_clear:train_clear_glass_casing (from CreateGuns1.2.1-1.19.2edit3.zip)
+[27Apr2024 09:22:18.838] [Worker-Main-21/ERROR] [net.minecraft.tags.TagLoader/]: [Load My Fucking Tags] Couldn't load certain entries with the tag cgm:fragile: design_decor:cardboard_box (from CreateGuns1.2.1-1.19.2edit3.zip), vs_clockwork:flap (from CreateGuns1.2.1-1.19.2edit3.zip), vs_clockwork:wing (from CreateGuns1.2.1-1.19.2edit3.zip)
+[27Apr2024 09:22:19.059] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/poison as it's serializer returned null
+[27Apr2024 09:22:19.070] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/blackboard_clear as it's serializer returned null
+[27Apr2024 09:22:19.092] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/frosted as it's serializer returned null
+[27Apr2024 09:22:19.093] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_dye as it's serializer returned null
+[27Apr2024 09:22:19.098] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/hunger as it's serializer returned null
+[27Apr2024 09:22:19.108] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/resistance as it's serializer returned null
+[27Apr2024 09:22:19.123] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe supplementaries:inspirations/flag_clear as it's serializer returned null
+[27Apr2024 09:22:19.144] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/blindness as it's serializer returned null
+[27Apr2024 09:22:19.147] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/regeneration as it's serializer returned null
+[27Apr2024 09:22:19.149] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/slowness as it's serializer returned null
+[27Apr2024 09:22:19.154] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Skipping loading recipe twilightforest:jeed/fire_resistance as it's serializer returned null
+[27Apr2024 09:22:19.158] [main/INFO] [net.minecraft.world.item.crafting.RecipeManager/]: Loaded 30 recipes
+[27Apr2024 09:22:19.338] [main/INFO] [com.jerrylu086.netherite_horse_armor.NetheriteHorseArmor/]: Successfully modified loot table: 'minecraft:chests/bastion_treasure'
+[27Apr2024 09:22:19.508] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {minecraft:entities/ender_dragon}.pools[0].entries[0]: Unknown loot table called minecraft:entities/reference/extra/ender_dragon
+[27Apr2024 09:22:19.508] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {minecraft:entities/shulker}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/shulker
+[27Apr2024 09:22:19.508] [main/WARN] [net.minecraft.world.level.storage.loot.LootTables/]: Found validation problem in {minecraft:entities/bat}.pools[2].entries[0]: Unknown loot table called minecraft:entities/reference/extra/bat
+[27Apr2024 09:22:19.510] [main/ERROR] [net.minecraft.tags.TagLoader/]: [Load My Fucking Tags] Couldn't load certain entries with the tag minecraft:tick: bundle:repeat (from Bundle.zip)
+[27Apr2024 09:22:19.626] [main/INFO] [net.minecraft.advancements.AdvancementList/]: Loaded 3617 advancements
+[27Apr2024 09:22:19.628] [main/INFO] [twilightforest/]: Loaded 9 Stalactite configs!
+[27Apr2024 09:22:19.632] [main/WARN] [net.minecraftforge.common.loot.LootModifierManager/]: Could not decode GlobalLootModifier with json id alcocraftplus:shipwreck - error: Unknown registry key in ResourceKey[minecraft:root / minecraft:item]: alcocraftplus:spruce_mug_drowned_ale
+[27Apr2024 09:22:19.636] [main/INFO] [supplementaries/]: Loaded  8 flute songs
+[27Apr2024 09:22:21.074] [main/INFO] [supplementaries/]: Finished additional setup in 29 ms
+[27Apr2024 09:22:21.075] [main/WARN] [org.valkyrienskies.mod.common.config.MassDatapackResolver/]: No specified tag 'minecraft:carpets' doesn't exist!
+[27Apr2024 09:22:21.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting minecraft server version 1.19.2
+[27Apr2024 09:22:21.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Loading properties
+[27Apr2024 09:22:21.195] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Default game type: SURVIVAL
+[27Apr2024 09:22:21.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Generating keypair
+[27Apr2024 09:22:21.245] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Starting Minecraft server on *:25565
+[27Apr2024 09:22:21.261] [Server thread/INFO] [net.minecraft.server.network.ServerConnectionListener/]: Using epoll channel type
+[27Apr2024 09:22:21.339] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[27Apr2024 09:22:21.340] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: The server will make no attempt to authenticate usernames. Beware.
+[27Apr2024 09:22:21.340] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[27Apr2024 09:22:21.340] [Server thread/WARN] [net.minecraft.server.dedicated.DedicatedServer/]: To change this, set "online-mode" to "true" in the server.properties file.
+[27Apr2024 09:22:21.387] [Server thread/INFO] [Framework/]: Loading server configs...
+[27Apr2024 09:22:21.389] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Preparing level "world-1"
+[27Apr2024 09:22:21.875] [Server thread/INFO] [org.valkyrienskies.core.impl.networking.VSNetworking/]: We are not using UDP, falling back to TCP
+[27Apr2024 09:22:22.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Preparing start region for dimension minecraft:overworld
+[27Apr2024 09:22:26.584] [Worker-Main-19/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2024 09:22:26.588] [Worker-Main-19/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2024 09:22:26.622] [Worker-Main-13/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2024 09:22:26.630] [Worker-Main-19/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2024 09:22:26.631] [Worker-Main-19/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2024 09:22:26.631] [Worker-Main-13/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2024 09:22:26.632] [Worker-Main-13/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2024 09:22:26.632] [Worker-Main-13/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2024 09:22:26.632] [Worker-Main-20/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 0%
+[27Apr2024 09:22:26.843] [Worker-Main-19/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 4%
+[27Apr2024 09:22:27.326] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ak/]: Too many physics frames in the physics frame queue. Is the game stage broken?
+[27Apr2024 09:22:27.345] [Worker-Main-15/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Preparing spawn area: 98%
+[27Apr2024 09:22:27.354] [Server thread/INFO] [net.minecraft.server.level.progress.LoggerChunkProgressListener/]: Time elapsed: 5012 ms
+[27Apr2024 09:22:27.354] [Server thread/INFO] [net.minecraft.server.dedicated.DedicatedServer/]: Done (6.008s)! For help, type "help"
+[27Apr2024 09:22:27.376] [Server thread/INFO] [net.minecraftforge.server.permission.PermissionAPI/]: Successfully initialized permission handler forge:default_handler
+[27Apr2024 09:22:27.377] [Server thread/INFO] [net.stardustlabs.terralith.Terralith/]: Thanks for choosing Terralith!
+[27Apr2024 09:22:27.414] [DefaultDispatcher-worker-5/INFO] [ktor.application/]: Autoreload is disabled because the development mode is off.
+[27Apr2024 09:22:27.449] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: / -> /assets/littlechasiu/ctm/static/index.html
+[27Apr2024 09:22:27.451] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/logo.png -> /assets/littlechasiu/ctm/static/assets/logo.png
+[27Apr2024 09:22:27.455] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/leaflet.rotated-marker.min.js -> /assets/littlechasiu/ctm/static/assets/js/leaflet.rotated-marker.min.js
+[27Apr2024 09:22:27.455] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/leaflet.min.js -> /assets/littlechasiu/ctm/static/assets/js/leaflet.min.js
+[27Apr2024 09:22:27.455] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/leaflet.curve.min.js -> /assets/littlechasiu/ctm/static/assets/js/leaflet.curve.min.js
+[27Apr2024 09:22:27.455] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/ctm.train-manager.js -> /assets/littlechasiu/ctm/static/assets/js/ctm.train-manager.js
+[27Apr2024 09:22:27.455] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/ctm.station-manager.js -> /assets/littlechasiu/ctm/static/assets/js/ctm.station-manager.js
+[27Apr2024 09:22:27.456] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/ctm.map-icons.js -> /assets/littlechasiu/ctm/static/assets/js/ctm.map-icons.js
+[27Apr2024 09:22:27.456] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/ctm.layer-manager.js -> /assets/littlechasiu/ctm/static/assets/js/ctm.layer-manager.js
+[27Apr2024 09:22:27.456] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/ctm.data-manager.js -> /assets/littlechasiu/ctm/static/assets/js/ctm.data-manager.js
+[27Apr2024 09:22:27.456] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/ctm.crs.js -> /assets/littlechasiu/ctm/static/assets/js/ctm.crs.js
+[27Apr2024 09:22:27.456] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/ctm.control.list.js -> /assets/littlechasiu/ctm/static/assets/js/ctm.control.list.js
+[27Apr2024 09:22:27.456] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/ctm.control.coords.js -> /assets/littlechasiu/ctm/static/assets/js/ctm.control.coords.js
+[27Apr2024 09:22:27.457] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/js/create-track-map.js -> /assets/littlechasiu/ctm/static/assets/js/create-track-map.js
+[27Apr2024 09:22:27.457] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/icons/trains.svg -> /assets/littlechasiu/ctm/static/assets/icons/trains.svg
+[27Apr2024 09:22:27.457] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/icons/stations.svg -> /assets/littlechasiu/ctm/static/assets/icons/stations.svg
+[27Apr2024 09:22:27.457] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/icons/layers.svg -> /assets/littlechasiu/ctm/static/assets/icons/layers.svg
+[27Apr2024 09:22:27.457] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/icons/cursor.svg -> /assets/littlechasiu/ctm/static/assets/icons/cursor.svg
+[27Apr2024 09:22:27.457] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/icons/center.svg -> /assets/littlechasiu/ctm/static/assets/icons/center.svg
+[27Apr2024 09:22:27.458] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/favicon-64.png -> /assets/littlechasiu/ctm/static/assets/favicon-64.png
+[27Apr2024 09:22:27.458] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/favicon-32.png -> /assets/littlechasiu/ctm/static/assets/favicon-32.png
+[27Apr2024 09:22:27.458] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/css/leaflet.min.css -> /assets/littlechasiu/ctm/static/assets/css/leaflet.min.css
+[27Apr2024 09:22:27.458] [DefaultDispatcher-worker-5/INFO] [createtrackmap/]: /assets/css/create-track-map.css -> /assets/littlechasiu/ctm/static/assets/css/create-track-map.css
+[27Apr2024 09:22:27.462] [DefaultDispatcher-worker-5/INFO] [ktor.application/]: Application started in 0.059 seconds.
+[27Apr2024 09:22:27.483] [Server thread/INFO] [createtrackmap/]: Started Create Track Map server on port 3876
+[27Apr2024 09:22:27.484] [DefaultDispatcher-worker-6/INFO] [ktor.application/]: Responding at http://0.0.0.0:3876
+[27Apr2024 09:22:27.637] [Server thread/INFO] [PlasmoVoice/]: pv-addon-groups v1.0.2 by KPidS loaded
+[27Apr2024 09:22:27.640] [Server thread/INFO] [PlasmoVoice/]: pv-addon-sculk v1.0.0 by Apehum loaded
+[27Apr2024 09:22:27.646] [Server thread/INFO] [PlasmoVoice/]: pv-addon-whisper v1.0.0 by Apehum loaded
+[27Apr2024 09:22:27.668] [Server thread/INFO] [PlasmoVoice/]: UDP server is started on /[0:0:0:0:0:0:0:0]:25565
+[27Apr2024 09:45:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Unknown or incomplete command, see below for error
+[27Apr2024 09:45:50.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: close<--[HERE]
+[27Apr2024 09:46:14.767] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping the server
+[27Apr2024 09:46:15.190] [Server thread/INFO] [createtrackmap/]: Stopping Create Track Map server
+[27Apr2024 09:46:16.202] [Server thread/INFO] [PlasmoVoice/]: UDP server is stopped
+[27Apr2024 09:46:16.207] [Server thread/INFO] [PlasmoVoice/]: Addon pv-addon-groups v1.0.2 by KPidS unloaded
+[27Apr2024 09:46:16.207] [Server thread/INFO] [PlasmoVoice/]: Addon pv-addon-sculk v1.0.0 by Apehum unloaded
+[27Apr2024 09:46:16.207] [Server thread/INFO] [PlasmoVoice/]: Addon pv-addon-whisper v1.0.0 by Apehum unloaded
+[27Apr2024 09:46:16.207] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Stopping server
+[27Apr2024 09:46:16.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving players
+[27Apr2024 09:46:16.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving worlds
+[27Apr2024 09:46:16.218] [Physics thread/INFO] [Burger Factory/]: Deleting VSPhysicsPipelineStage resources!
+[27Apr2024 09:46:16.219] [Physics thread/WARN] [org.valkyrienskies.core.impl.shadow.Ap/]: Physics pipeline ending
+[27Apr2024 09:46:16.237] [DefaultDispatcher-worker-7/INFO] [Burger Factory/]: VSPhysicsPipelineStage is fully deleted!
+[27Apr2024 09:46:16.914] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world-1]'/minecraft:overworld
+[27Apr2024 09:46:25.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world-1]'/twilightforest:twilight_forest
+[27Apr2024 09:46:25.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world-1]'/minecraft:the_end
+[27Apr2024 09:46:25.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Saving chunks for level 'ServerLevel[world-1]'/minecraft:the_nether
+[27Apr2024 09:46:25.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (world-1): All chunks are saved
+[27Apr2024 09:46:25.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (twilight_forest): All chunks are saved
+[27Apr2024 09:46:25.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[27Apr2024 09:46:25.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[27Apr2024 09:46:25.611] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: ThreadedAnvilChunkStorage: All dimensions are saved
+[27Apr2024 09:46:25.662] [Server thread/INFO] [Framework/]: Unloading server configs...

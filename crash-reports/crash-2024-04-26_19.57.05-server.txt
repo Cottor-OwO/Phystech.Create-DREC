@@ -1,0 +1,199 @@
+---- Minecraft Crash Report ----
+// My bad.
+
+Time: 2024-04-26 19:57:05
+Description: Ticking block entity
+
+java.lang.NullPointerException: Cannot invoke "net.minecraftforge.fluids.capability.IFluidHandler.fill(net.minecraftforge.fluids.FluidStack, net.minecraftforge.fluids.capability.IFluidHandler$FluidAction)" because "this.wrapped" is null
+	at com.railwayteam.railways.content.fuel.psi.PortableFuelInterfaceBlockEntity$InterfaceFluidHandler.fill(PortableFuelInterfaceBlockEntity.java:101) ~[Steam_Rails-1.6.1+forge-mc1.19.2.jar%23174!/:?] {re:mixin,re:classloading}
+	at com.simibubi.create.content.fluids.FluidNetwork.tick(FluidNetwork.java:248) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:mixin,re:classloading,pl:mixin:APP:railways.mixins.json:FluidNetworkMixin,pl:mixin:A}
+	at com.simibubi.create.content.fluids.PipeConnection.manageFlows(PipeConnection.java:148) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading,pl:runtimedistcleaner:A}
+	at com.simibubi.create.content.fluids.FluidTransportBehaviour.tick(FluidTransportBehaviour.java:132) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading}
+	at com.simibubi.create.content.fluids.pump.PumpBlockEntity$PumpFluidTransferBehaviour.tick(PumpBlockEntity.java:349) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading}
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?] {}
+	at com.simibubi.create.foundation.blockEntity.SmartBlockEntity.forEachBehaviour(SmartBlockEntity.java:180) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:mixin,re:classloading,pl:mixin:APP:create_interactive-common.mixins.json:SmartBlockEntityAccessor,pl:mixin:A}
+	at com.simibubi.create.foundation.blockEntity.SmartBlockEntity.tick(SmartBlockEntity.java:83) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:mixin,re:classloading,pl:mixin:APP:create_interactive-common.mixins.json:SmartBlockEntityAccessor,pl:mixin:A}
+	at com.simibubi.create.content.kinetics.base.KineticBlockEntity.tick(KineticBlockEntity.java:97) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:A,pl:runtimedistcleaner:A}
+	at com.simibubi.create.content.fluids.pump.PumpBlockEntity.tick(PumpBlockEntity.java:63) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading}
+	at com.simibubi.create.foundation.blockEntity.SmartBlockEntityTicker.m_155252_(SmartBlockEntityTicker.java:15) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading}
+	at net.minecraft.world.level.chunk.LevelChunk$BoundTickingBlockEntity.m_142224_(LevelChunk.java:687) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,re:classloading,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.world_border.BoundTickingBlockEntityMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.LevelChunk$RebindableTickingBlockEntityWrapper.m_142224_(LevelChunk.java:780) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,re:classloading,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.sleeping.RebindableTickingBlockEntityWrapperAccessor,pl:mixin:A}
+	at net.minecraft.world.level.Level.m_46463_(Level.java:446) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:canary.mixins.json:alloc.chunk_random.LevelMixin,pl:mixin:APP:canary.mixins.json:entity.collisions.intersection.LevelMixin,pl:mixin:APP:canary.mixins.json:util.block_entity_retrieval.LevelMixin,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.sleeping.LevelMixin,pl:mixin:APP:canary.mixins.json:world.chunk_access.LevelMixin,pl:mixin:APP:canary.mixins.json:world.inline_block_access.LevelMixin,pl:mixin:APP:canary.mixins.json:world.inline_height.LevelMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.clip_replace.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.get_entities.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.world_border.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:world.level.MixinLevel,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:331) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:canary.mixins.json:alloc.chunk_random.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:chunk.replace_streams.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:entity.inactive_navigations.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:profiler.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:util.accessors.ServerLevelAccessor,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.sleeping.ServerLevelMixin,pl:mixin:APP:pluto.mixins.json:fast_entity_access.ServerLevelMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.shipyard_entities.MixinServerLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:server.world.MixinServerLevel,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin}
+
+
+A detailed walkthrough of the error, its code path and all known details is as follows:
+---------------------------------------------------------------------------------------
+
+-- Head --
+Thread: Server thread
+Stacktrace:
+	at com.railwayteam.railways.content.fuel.psi.PortableFuelInterfaceBlockEntity$InterfaceFluidHandler.fill(PortableFuelInterfaceBlockEntity.java:101) ~[Steam_Rails-1.6.1+forge-mc1.19.2.jar%23174!/:?] {re:mixin,re:classloading}
+	at com.simibubi.create.content.fluids.FluidNetwork.tick(FluidNetwork.java:248) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:mixin,re:classloading,pl:mixin:APP:railways.mixins.json:FluidNetworkMixin,pl:mixin:A}
+	at com.simibubi.create.content.fluids.PipeConnection.manageFlows(PipeConnection.java:148) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading,pl:runtimedistcleaner:A}
+	at com.simibubi.create.content.fluids.FluidTransportBehaviour.tick(FluidTransportBehaviour.java:132) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading}
+	at com.simibubi.create.content.fluids.pump.PumpBlockEntity$PumpFluidTransferBehaviour.tick(PumpBlockEntity.java:349) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading}
+	at java.util.HashMap$Values.forEach(HashMap.java:1065) ~[?:?] {}
+	at com.simibubi.create.foundation.blockEntity.SmartBlockEntity.forEachBehaviour(SmartBlockEntity.java:180) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:mixin,re:classloading,pl:mixin:APP:create_interactive-common.mixins.json:SmartBlockEntityAccessor,pl:mixin:A}
+	at com.simibubi.create.foundation.blockEntity.SmartBlockEntity.tick(SmartBlockEntity.java:83) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:mixin,re:classloading,pl:mixin:APP:create_interactive-common.mixins.json:SmartBlockEntityAccessor,pl:mixin:A}
+	at com.simibubi.create.content.kinetics.base.KineticBlockEntity.tick(KineticBlockEntity.java:97) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:mixin,pl:runtimedistcleaner:A,re:classloading,pl:mixin:A,pl:runtimedistcleaner:A}
+	at com.simibubi.create.content.fluids.pump.PumpBlockEntity.tick(PumpBlockEntity.java:63) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading}
+	at com.simibubi.create.foundation.blockEntity.SmartBlockEntityTicker.m_155252_(SmartBlockEntityTicker.java:15) ~[create-1.19.2-0.5.1.f.jar%23148!/:0.5.1.f] {re:classloading}
+	at net.minecraft.world.level.chunk.LevelChunk$BoundTickingBlockEntity.m_142224_(LevelChunk.java:687) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,re:classloading,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.world_border.BoundTickingBlockEntityMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.LevelChunk$RebindableTickingBlockEntityWrapper.m_142224_(LevelChunk.java:780) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,re:classloading,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.sleeping.RebindableTickingBlockEntityWrapperAccessor,pl:mixin:A}
+	at net.minecraft.world.level.Level.m_46463_(Level.java:446) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:canary.mixins.json:alloc.chunk_random.LevelMixin,pl:mixin:APP:canary.mixins.json:entity.collisions.intersection.LevelMixin,pl:mixin:APP:canary.mixins.json:util.block_entity_retrieval.LevelMixin,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.sleeping.LevelMixin,pl:mixin:APP:canary.mixins.json:world.chunk_access.LevelMixin,pl:mixin:APP:canary.mixins.json:world.inline_block_access.LevelMixin,pl:mixin:APP:canary.mixins.json:world.inline_height.LevelMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.clip_replace.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.get_entities.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.world_border.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:world.level.MixinLevel,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:331) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:canary.mixins.json:alloc.chunk_random.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:chunk.replace_streams.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:entity.inactive_navigations.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:profiler.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:util.accessors.ServerLevelAccessor,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.sleeping.ServerLevelMixin,pl:mixin:APP:pluto.mixins.json:fast_entity_access.ServerLevelMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.shipyard_entities.MixinServerLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:server.world.MixinServerLevel,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+-- Block entity being ticked --
+Details:
+	Name: create:mechanical_pump // com.simibubi.create.content.fluids.pump.PumpBlockEntity
+	Block: Block{create:mechanical_pump}[facing=up,waterlogged=false]
+	Block location: World: (927,150,1229), Section: (at 15,6,13 in 57,9,76; chunk contains blocks 912,-64,1216 to 927,319,1231), Region: (1,2; contains chunks 32,64 to 63,95, blocks 512,-64,1024 to 1023,319,1535)
+	Block: Block{create:mechanical_pump}[facing=up,waterlogged=false]
+	Block location: World: (927,150,1229), Section: (at 15,6,13 in 57,9,76; chunk contains blocks 912,-64,1216 to 927,319,1231), Region: (1,2; contains chunks 32,64 to 63,95, blocks 512,-64,1024 to 1023,319,1535)
+Stacktrace:
+	at net.minecraft.world.level.chunk.LevelChunk$BoundTickingBlockEntity.m_142224_(LevelChunk.java:687) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,re:classloading,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.world_border.BoundTickingBlockEntityMixin,pl:mixin:A}
+	at net.minecraft.world.level.chunk.LevelChunk$RebindableTickingBlockEntityWrapper.m_142224_(LevelChunk.java:780) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,re:classloading,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.sleeping.RebindableTickingBlockEntityWrapperAccessor,pl:mixin:A}
+	at net.minecraft.world.level.Level.m_46463_(Level.java:446) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:canary.mixins.json:alloc.chunk_random.LevelMixin,pl:mixin:APP:canary.mixins.json:entity.collisions.intersection.LevelMixin,pl:mixin:APP:canary.mixins.json:util.block_entity_retrieval.LevelMixin,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.sleeping.LevelMixin,pl:mixin:APP:canary.mixins.json:world.chunk_access.LevelMixin,pl:mixin:APP:canary.mixins.json:world.inline_block_access.LevelMixin,pl:mixin:APP:canary.mixins.json:world.inline_height.LevelMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.clip_replace.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.get_entities.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.world_border.MixinLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:world.level.MixinLevel,pl:mixin:A}
+	at net.minecraft.server.level.ServerLevel.m_8793_(ServerLevel.java:331) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:APP:canary.mixins.json:alloc.chunk_random.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:chunk.replace_streams.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:entity.inactive_navigations.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:profiler.ServerLevelMixin,pl:mixin:APP:canary.mixins.json:util.accessors.ServerLevelAccessor,pl:mixin:APP:canary.mixins.json:world.block_entity_ticking.sleeping.ServerLevelMixin,pl:mixin:APP:pluto.mixins.json:fast_entity_access.ServerLevelMixin,pl:mixin:APP:valkyrienskies-common.mixins.json:feature.shipyard_entities.MixinServerLevel,pl:mixin:APP:valkyrienskies-common.mixins.json:server.world.MixinServerLevel,pl:mixin:APP:create.mixins.json:accessor.ServerLevelAccessor,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin}
+
+
+-- Affected level --
+Details:
+	All players: 1 total; [ServerPlayer['Cottor_OwO'/199, l='ServerLevel[world]', x=919.62, y=160.73, z=1224.74]]
+	Chunk stats: 7920
+	Level dimension: minecraft:overworld
+	Level spawn location: World: (48,72,16), Section: (at 0,8,0 in 3,4,1; chunk contains blocks 48,-64,16 to 63,319,31), Region: (0,0; contains chunks 0,0 to 31,31, blocks 0,-64,0 to 511,319,511)
+	Level time: 3284367 game time, 1000 day time
+	Level name: world
+	Level game mode: Game mode: survival (ID 0). Hardcore: false. Cheats: false
+	Level weather: Rain time: 111154 (now: false), thunder time: 135490 (now: false)
+	Known server brands: forge
+	Level was modded: true
+	Level storage version: 0x04ABD - Anvil
+Stacktrace:
+	at net.minecraft.server.MinecraftServer.m_5703_(MinecraftServer.java:866) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.dedicated.DedicatedServer.m_5703_(DedicatedServer.java:292) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B}
+	at net.minecraft.server.MinecraftServer.m_5705_(MinecraftServer.java:806) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_130011_(MinecraftServer.java:654) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at net.minecraft.server.MinecraftServer.m_206580_(MinecraftServer.java:244) ~[server-1.19.2-20220805.130853-srg.jar%23187!/:?] {re:mixin,pl:accesstransformer:B,re:computing_frames,pl:accesstransformer:B,re:classloading,pl:accesstransformer:B,pl:mixin:A}
+	at java.lang.Thread.run(Thread.java:840) [?:?] {re:mixin}
+
+
+-- System Details --
+Details:
+	Minecraft Version: 1.19.2
+	Minecraft Version ID: 1.19.2
+	Operating System: Linux (amd64) version 5.15.0-105-generic
+	Java Version: 17.0.10, Private Build
+	Java VM Version: OpenJDK 64-Bit Server VM (mixed mode, sharing), Private Build
+	Memory: 1879401224 bytes (1792 MiB) / 4269801472 bytes (4072 MiB) up to 12884901888 bytes (12288 MiB)
+	CPUs: 12
+	Processor Vendor: GenuineIntel
+	Processor Name: Intel(R) Core(TM) i5-10400F CPU @ 2.90GHz
+	Identifier: Intel64 Family 6 Model 165 Stepping 3
+	Microarchitecture: unknown
+	Frequency (GHz): 2.90
+	Number of physical packages: 1
+	Number of physical CPUs: 6
+	Number of logical CPUs: 12
+	Graphics card #0 name: GF108 [GeForce GT 730]
+	Graphics card #0 vendor: NVIDIA Corporation (0x10de)
+	Graphics card #0 VRAM (MB): 160.00
+	Graphics card #0 deviceId: 0x0f02
+	Graphics card #0 versionInfo: unknown
+	Virtual memory max (MB): 12056.41
+	Virtual memory used (MB): 5574.21
+	Swap memory total (MB): 4096.00
+	Swap memory used (MB): 0.00
+	JVM Flags: 1 total; -Xmx12G
+	Server Running: true
+	Player Count: 1 / 20; [ServerPlayer['Cottor_OwO'/199, l='ServerLevel[world]', x=919.62, y=160.73, z=1224.74]]
+	Data Packs: vanilla, mod:farmersdelight, mod:saturn, mod:create_tweaked_controllers (incompatible), mod:moonlight (incompatible), mod:kotlinforforge (incompatible), mod:flywheel (incompatible), mod:create, mod:plasmovoice (incompatible), mod:pv_addon_groups (incompatible), mod:canary, mod:mixinextras (incompatible), mod:pv_addon_whisper (incompatible), mod:pluto, mod:create_dragon_lib, mod:architectury (incompatible), mod:railways (incompatible), mod:labels (incompatible), mod:terralith, mod:pv_addon_sculk (incompatible), mod:createtrackmap (incompatible), mod:exposure (incompatible), mod:forge, mod:dummmmmmy (incompatible), mod:chalk (incompatible), mod:create_enchantment_industry (incompatible), mod:cgm (incompatible), mod:framework (incompatible), mod:lmft (incompatible), mod:globaldataandresourcepacks (incompatible), file/CreateGuns1.2.1-1.19.2edit3.zip (incompatible), file/No Elytra Firework Boost v1.0.zip (incompatible), mod:travelersbackpack, mod:cgm_casings, mod:rocketalternative, mod:betterdungeons, mod:betterwitchhuts, mod:everlastingskins (incompatible), mod:netherite_horse_armor (incompatible), mod:yungsapi, mod:betterfortresses, mod:cloth_config (incompatible), mod:alcocraftplus (incompatible), mod:tenshilib (incompatible), mod:yungsextras, mod:betterstrongholds, mod:create_power_loader, mod:valkyrienskies (incompatible), mod:create_interactive (incompatible), mod:mr_no_f3 (incompatible), mod:improvedmobs (incompatible), mod:bettermineshafts
+	World Generation: Experimental
+	Is Modded: Definitely; Server brand changed to 'forge'
+	Type: Dedicated Server (map_server.txt)
+	ModLauncher: 10.0.8+10.0.8+main.0ef7e830
+	ModLauncher launch target: forgeserver
+	ModLauncher naming: srg
+	ModLauncher services: 
+		mixin-0.8.5.jar mixin PLUGINSERVICE 
+		eventbus-6.0.3.jar eventbus PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.0.jar slf4jfixer PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.0.jar object_holder_definalize PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.0.jar runtime_enum_extender PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.0.jar capability_token_subclass PLUGINSERVICE 
+		accesstransformers-8.0.4.jar accesstransformer PLUGINSERVICE 
+		fmlloader-1.19.2-43.3.0.jar runtimedistcleaner PLUGINSERVICE 
+		modlauncher-10.0.8.jar mixin TRANSFORMATIONSERVICE 
+		modlauncher-10.0.8.jar fml TRANSFORMATIONSERVICE 
+	FML Language Providers: 
+		minecraft@1.0
+		javafml@null
+		kotlinforforge@3.12.0
+		lowcodefml@null
+	Mod List: 
+		saturn-mc1.19.2-0.1.4.jar                         |Saturn                        |saturn                        |0.1.4               |DONE      |Manifest: NOSIGNATURE
+		create_tweaked_controllers-1.19.2-1.2.4.jar       |Create: Tweaked Controllers   |create_tweaked_controllers    |1.19.2-1.2.4        |DONE      |Manifest: NOSIGNATURE
+		YungsBetterDungeons-1.19.2-Forge-3.2.2.jar        |YUNG's Better Dungeons        |betterdungeons                |1.19.2-Forge-3.2.2  |DONE      |Manifest: NOSIGNATURE
+		YungsBetterWitchHuts-1.19.2-Forge-2.1.0.jar       |YUNG's Better Witch Huts      |betterwitchhuts               |1.19.2-Forge-2.1.0  |DONE      |Manifest: NOSIGNATURE
+		cgm-forge-1.19.2-1.3.7.jar                        |MrCrayfish's Gun Mod          |cgm                           |1.3.7               |DONE      |Manifest: NOSIGNATURE
+		EverlastingSkins-1.19.2-1.0.jar                   |Everlasting Skins             |everlastingskins              |1.0                 |DONE      |Manifest: NOSIGNATURE
+		TravelersBackpack-1.19.2-8.2.35.jar               |Traveler's Backpack           |travelersbackpack             |8.2.35              |DONE      |Manifest: NOSIGNATURE
+		netherite_horse_armor-forge-1.19-1.0.4.jar        |Netherite Horse Armor         |netherite_horse_armor         |1.19-1.0.4          |DONE      |Manifest: NOSIGNATURE
+		YungsApi-1.19.2-Forge-3.8.10.jar                  |YUNG's API                    |yungsapi                      |1.19.2-Forge-3.8.10 |DONE      |Manifest: NOSIGNATURE
+		plasmovoice-forge-1.19.2-2.0.8.jar                |Plasmo Voice                  |plasmovoice                   |2.0.8               |DONE      |Manifest: NOSIGNATURE
+		pv-addon-groups-1.0.2.jar                         |pv-addon-groups               |pv_addon_groups               |1.0.2               |DONE      |Manifest: NOSIGNATURE
+		mixinextras-forge-0.3.5.jar                       |MixinExtras                   |mixinextras                   |0.3.5               |DONE      |Manifest: NOSIGNATURE
+		create_dragon_lib-1.19.2-1.4.2.jar                |Create: Dragon Lib            |create_dragon_lib             |1.4.2               |DONE      |Manifest: NOSIGNATURE
+		Steam_Rails-1.6.1+forge-mc1.19.2.jar              |Create: Steam 'n' Rails       |railways                      |1.6.1+forge-mc1.19.2|DONE      |Manifest: NOSIGNATURE
+		Terralith_1.19.3_v2.3.12.jar                      |Terralith                     |terralith                     |2.3.12              |DONE      |Manifest: NOSIGNATURE
+		exposure-1.19.2-1.4.1-forge.jar                   |Exposure                      |exposure                      |1.4.1               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterNetherFortresses-1.19.2-Forge-1.0.6.jar|YUNG's Better Nether Fortresse|betterfortresses              |1.19.2-Forge-1.0.6  |DONE      |Manifest: NOSIGNATURE
+		cgm-casings-0.3.0-1.19.2-forge.jar                |Casings for CGM               |cgm_casings                   |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		cloth-config-forge-8.3.103.jar                    |Cloth Config v8 API           |cloth_config                  |8.3.103             |DONE      |Manifest: NOSIGNATURE
+		forge-1.19.2-43.3.0-universal.jar                 |Forge                         |forge                         |43.3.0              |DONE      |Manifest: 84:ce:76:e8:45:35:e4:0e:63:86:df:47:59:80:0f:67:6c:c1:5f:6e:5f:4d:b3:54:47:1a:9f:7f:ed:5e:f2:90
+		dummmmmmy-1.19.2-1.7.2.jar                        |MmmMmmMmmmmm                  |dummmmmmy                     |1.19.2-1.7.2        |DONE      |Manifest: NOSIGNATURE
+		chalk-1.19.2-1.6.3.jar                            |Chalk                         |chalk                         |1.6.3               |DONE      |Manifest: NOSIGNATURE
+		alcocraftplus-1.19.2-forge-1.0.1.jar              |Alcocraft                     |alcocraftplus                 |1.0.1               |DONE      |Manifest: NOSIGNATURE
+		lmft-1.0.2+1.19-forge.jar                         |Load My F***ing Tags          |lmft                          |1.0.2+1.19          |DONE      |Manifest: NOSIGNATURE
+		rocketalternative-0.0.1-1.19.2.jar                |Create Rocket Alternative     |rocketalternative             |0.0.1-1.19.2        |DONE      |Manifest: NOSIGNATURE
+		server-1.19.2-20220805.130853-srg.jar             |Minecraft                     |minecraft                     |1.19.2              |DONE      |Manifest: NOSIGNATURE
+		tenshilib-1.19.2-1.6.15-forge.jar                 |TenshiLib                     |tenshilib                     |1.19.2-1.6.15       |DONE      |Manifest: NOSIGNATURE
+		FarmersDelight-1.19.2-1.2.4.jar                   |Farmer's Delight              |farmersdelight                |1.19.2-1.2.4        |DONE      |Manifest: NOSIGNATURE
+		moonlight-1.19.2-2.3.5-forge.jar                  |Moonlight Library             |moonlight                     |1.19.2-2.3.5        |DONE      |Manifest: NOSIGNATURE
+		labels-1.19.2-1.10.jar                            |Labels                        |labels                        |1.19.2-1.10         |DONE      |Manifest: NOSIGNATURE
+		kffmod-3.12.0.jar                                 |Kotlin For Forge              |kotlinforforge                |3.12.0              |DONE      |Manifest: NOSIGNATURE
+		flywheel-forge-1.19.2-0.6.10-20.jar               |Flywheel                      |flywheel                      |0.6.10-20           |DONE      |Manifest: NOSIGNATURE
+		create-1.19.2-0.5.1.f.jar                         |Create                        |create                        |0.5.1.f             |DONE      |Manifest: NOSIGNATURE
+		YungsExtras-1.19.2-Forge-3.1.0.jar                |YUNG's Extras                 |yungsextras                   |1.19.2-Forge-3.1.0  |DONE      |Manifest: NOSIGNATURE
+		canary-mc1.19.2-0.3.3.jar                         |Canary                        |canary                        |0.3.3               |DONE      |Manifest: NOSIGNATURE
+		YungsBetterStrongholds-1.19.2-Forge-3.2.0.jar     |YUNG's Better Strongholds     |betterstrongholds             |1.19.2-Forge-3.2.0  |DONE      |Manifest: NOSIGNATURE
+		global_packs-forge-1.19.2-1.14.5_forge.jar        |Global Packs                  |globaldataandresourcepacks    |1.14.5_forge        |DONE      |Manifest: NOSIGNATURE
+		pv-addon-whisper-1.0.0.jar                        |pv-addon-whisper              |pv_addon_whisper              |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		pluto-mc1.19.2-0.0.9.jar                          |Pluto                         |pluto                         |0.0.9               |DONE      |Manifest: NOSIGNATURE
+		architectury-6.6.92-forge.jar                     |Architectury                  |architectury                  |6.6.92              |DONE      |Manifest: NOSIGNATURE
+		pv-addon-sculk-1.0.0.jar                          |pv-addon-sculk                |pv_addon_sculk                |1.0.0               |DONE      |Manifest: NOSIGNATURE
+		create_power_loader-1.4.0-mc1.19.2.jar            |Create: Power Loader          |create_power_loader           |1.4.0-mc1.19.2      |DONE      |Manifest: NOSIGNATURE
+		create-track-map-1.4+mc1.19.2-forge-create-0.5.1.j|Create Track Map              |createtrackmap                |1.4                 |DONE      |Manifest: NOSIGNATURE
+		framework-forge-1.19.2-0.6.16.jar                 |Framework                     |framework                     |0.6.16              |DONE      |Manifest: 0d:78:5f:44:c0:47:0c:8c:e2:63:a3:04:43:d4:12:7d:b0:7c:35:37:dc:40:b1:c1:98:ec:51:eb:3b:3c:45:99
+		valkyrienskies-119-2.1.2-beta.1.jar               |Valkyrien Skies 2             |valkyrienskies                |2.1.2-beta.1        |DONE      |Manifest: NOSIGNATURE
+		create_interactive-1192-forge-1.0.1-beta.2.jar    |Create: Interactive           |create_interactive            |1.0.1-beta.2        |DONE      |Manifest: NOSIGNATURE
+		no-f3-1.jar                                       |no f3                         |mr_no_f3                      |1                   |DONE      |Manifest: NOSIGNATURE
+		improvedmobs-1.19-1.11.0-forge.jar                |Improved Mobs Mod             |improvedmobs                  |1.19-1.11.0         |DONE      |Manifest: NOSIGNATURE
+		YungsBetterMineshafts-1.19.2-Forge-3.2.1.jar      |YUNG's Better Mineshafts      |bettermineshafts              |1.19.2-Forge-3.2.1  |DONE      |Manifest: NOSIGNATURE
+		create_enchantment_industry-1.19.2-for-create-0.5.|Create Enchantment Industry   |create_enchantment_industry   |1.2.9.b             |DONE      |Manifest: NOSIGNATURE
+	Crash Report UUID: df899f48-1771-404e-9c03-8d99e4d6a89e
+	FML: 43.3
+	Forge: net.minecraftforge:43.3.0
